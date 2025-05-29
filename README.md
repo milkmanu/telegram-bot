@@ -1,2 +1,1 @@
-# telegram-bot
-Unversal sabdo bot
+python main.py
